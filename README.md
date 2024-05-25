@@ -22,3 +22,7 @@ To develop a shopping cart system using JavaScript, HTML, and CSS by creating an
 - **Clearing the Cart**: Click "Clear Cart" to empty the cart.
 - **Searching Products**: Use the search bar to find products.
 - **User Authentication**: Login or register using the modals.
+
+## Setup
+
+[View Shopping Cart Project Live](https://niadavis.github.io/JavaScriptShoppingCart/) 
